@@ -1,4 +1,4 @@
 package Lexicon.Hans;
 
-public class Product {
+public abstract class Product {
 }

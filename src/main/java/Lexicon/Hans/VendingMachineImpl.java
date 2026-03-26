@@ -1,4 +1,5 @@
 package Lexicon.Hans;
 
-public class VendingMachineImpl {
+public class VendingMachineImpl implements IVendingMachine {
+    IVendingMachine vendingMachine;
 }

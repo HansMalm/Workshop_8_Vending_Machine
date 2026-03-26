@@ -1,4 +1,4 @@
 package Lexicon.Hans;
 
-public class Fruit {
+public class Fruit extends Product {
 }

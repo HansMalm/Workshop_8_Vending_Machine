@@ -1,4 +1,4 @@
 package Lexicon.Hans;
 
-public class IVendingMachine {
+public interface IVendingMachine {
 }
